@@ -24,7 +24,7 @@ CLI-based AWS interactions.
 
 ## Complete Project
 
-![Complete Project .PDF](Images/S3_architecture.png)
+![Complete Project .PDF]([[Images/S3_architecture.png](https://github.com/juleannynavas/-aws-s3-creation-objects-access-control-aws-cli/blob/main/S3_IAM_CLI%20.pdf)](https://github.com/juleannynavas/-aws-s3-creation-objects-access-control-aws-cli/blob/main/S3_IAM_CLI%20.pdf))
 
 ## Acknowledgments
 
