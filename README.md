@@ -22,6 +22,10 @@ CLI-based AWS interactions.
 - **IAM (Identity and Access Management)**: Secure access management.
 - **app.diagrams.net**: Architecture design visualization tool.
 
+## Complete Project
+
+![Complete Project .PDF](Images/S3_architecture.png)
+
 ## Acknowledgments
 
 - AWS re/Start / Factoría F5 mentoring
